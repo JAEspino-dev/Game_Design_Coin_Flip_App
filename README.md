@@ -1,6 +1,9 @@
 # ☀️ Coin Flip App
 Use this program if you want to try your luck with a coin flip! 
 
+# Link
+[Check out the Site!](https://game-design-coin-flip-app.onrender.com)
+
 # 📋 How to use
 1. Open the app in your browser   
 2. Enter a word  
