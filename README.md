@@ -6,7 +6,7 @@ Use this program if you want to try your luck with a coin flip!
 
 # 📋 How to use
 1. Open the app in your browser   
-2. Enter a word  
+2. Choose a coin side, heads or tails   
 3. Instantly view if you won   
 
 # 📷 Images
