@@ -1,0 +1,23 @@
+{
+  "name": "game_design_coin_flip_app",
+  "version": "1.0.0",
+  "description": "Use this program if you want to try your luck with a coin flip!",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAEspino-dev/Game_Design_Coin_Flip_App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JAEspino-dev/Game_Design_Coin_Flip_App/issues"
+  },
+  "homepage": "https://github.com/JAEspino-dev/Game_Design_Coin_Flip_App#readme"
+}
